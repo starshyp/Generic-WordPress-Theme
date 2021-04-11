@@ -1,4 +1,4 @@
 # dev
-Stand-alone projects created from tutorials.
+php-driven restaurant website.
 
 Each file and folder is its own project.
